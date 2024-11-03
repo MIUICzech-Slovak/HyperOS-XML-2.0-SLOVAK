@@ -1833,7 +1833,7 @@ Túto funkciu môžete vypnúť v Nastaveniach > Bluetooth > Spárované zariade
     <string name="bt_absVolume_open_dialog_title">Upozornenie</string>
     <string name="bt_absVolume_pre_title">Udržiavať konzistentnú hlasitosť</string>
     <string name="bt_absVolume_summary">Ponechať hlasitosť Bluetooth zariadenia a telefónu na rovnakej úrovni</string>
-    <string name="bt_always_show_icon">Nezobrazovať ikonu Bluetooth v lište</string>
+    <string name="bt_always_show_icon">Zobrazovať ikonu Bluetooth v lište</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive zaistí vysoko kvalitné prehrávanie a zníži latenciu zvuku u hier a videí, no zároveň zvýši aj spotrebu energie. Prehrávanie sa môže zadrhávať kvôli hardvérovým obmedzeniam Bluetooth a rušivým vplyvom prostredia.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Prepnúť na aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Opraviť chyby zvuku</string>

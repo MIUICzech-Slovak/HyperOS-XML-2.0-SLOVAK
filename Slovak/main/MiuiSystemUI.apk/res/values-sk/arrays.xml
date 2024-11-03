@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_options">
+        <item>Vždy zobrazovať percentá</item>
+        <item>Zobraziť percentá počas nabíjania</item>
+        <item>Nezobrazovať túto ikonu</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Zobraziť hodiny, minúty a sekundy</item>
+        <item>Zobraziť hodiny a minúty</item>
+        <item>Nezobrazovať túto ikonu</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Schránka</item>
+        <item>Kód klávesnice</item>
+        <item>Potvrdenie otočenia, prepínač klávesnice</item>
+        <item>Žiadne</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Štandardná</item>
+        <item>Kompaktná</item>
+        <item>Naklonená doľava</item>
+        <item>Naklonená doprava</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_dream">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Nedostupné</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnutý</item>
+        <item>Zapnutý</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Nie je k dispozícii</item>
+        <item>Vypnuté</item>
+        <item>Zapnuté</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Posuňte doľava</item>
+        <item>Posuňte nadol</item>
+        <item>Posuňte doprava</item>
+        <item>Presuňte nahor</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Vyhľadáva sa…</item>
+        <item>Pripája sa…</item>
+        <item>Overuje sa…</item>
+        <item>Získava sa adresa IP…</item>
+        <item>Pripojené</item>
+        <item>Pozastavené</item>
+        <item>Odpája sa…</item>
+        <item>Odpojené</item>
+        <item>Neúspešné</item>
+        <item>Blokované</item>
+        <item>Dočasne bolo zabránené slabému pripojeniu</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Vypnuté</item>
+        <item>30 minút</item>
+        <item>1 hodinu</item>
+        <item>2 hodiny</item>
+        <item>8 hodín</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
+        <item>Mrznúci dážď</item>
+        <item></item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Vyhľadávanie...</item>
+        <item>Pripájanie...</item>
+        <item>Overovanie...</item>
+        <item>Načítavanie adresy IP…</item>
+        <item>Pripojené</item>
+        <item>Pozastavené</item>
+        <item>Odpájanie...</item>
+        <item>Odpojené</item>
+        <item>Neúspešné</item>
+        <item>Blokované</item>
+        <item>Dočasne nedostupná kvôli slabému signálu</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Vyhľadávanie...</item>
+        <item>Pripojovanie k sieti %1$s...</item>
+        <item>Overovanie v sieti %1$s...</item>
+        <item>Získavanie adresy IP zo siete %1$s...</item>
+        <item>Pripojené k sieti %1$s</item>
+        <item>Pozastavené</item>
+        <item>Odpájanie od siete %1$s...</item>
+        <item>Odpojené</item>
+        <item>Neúspešné</item>
+        <item>Blokované</item>
+        <item>Dočasne nedostupná kvôli slabému signálu</item>
+    </string-array>
+</resources>

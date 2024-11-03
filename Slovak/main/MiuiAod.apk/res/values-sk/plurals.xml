@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Do hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Do pol hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hneď</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">o %d minút</item>
+        <item quantity="one">o 1 minútu</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pred %d minútami</item>
+        <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sh %2$s"</item>
+        <item quantity="one">" %1$sh %2$s"</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosférický tlak: %s hektopascalov</item>
+        <item quantity="one">Atmosférický tlak: %s hektopascal</item>
+    </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Zmenšený rozostup znakov. Rozostup %s.</item>
+        <item quantity="one">Zmenšený rozostup znakov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Zvýšený rozostup znakov. Rozostup %s.</item>
+        <item quantity="one">Zvýšený rozostup znakov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Doba prehrávania animácií nemôže prekročiť %d sekúnd.
+Dlhšie animácie budú v tomto bode zastavené."</item>
+        <item quantity="one">"Doba prehrávania animácií nemôže prekročiť %d sekundu.
+Dlhšie animácie budú v tomto bode zastavené."</item>
+        <item quantity="few">"Doba prehrávania animácií nemôže prekročiť %d sekundy.
+Dlhšie animácie budú v tomto bode zastavené."</item>
+        <item quantity="many">"Doba prehrávania animácií nemôže prekročiť %d sekundy.
+Dlhšie animácie budú v tomto bode zastavené."</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Spálené %1$s kalórií</item>
+        <item quantity="one">Spálené %1$s kalórií</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cieľ kalórií: %1$s kalórií</item>
+        <item quantity="one">Cieľ kalórií: %1$s kalórií</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Čas aktivity: %1$s minút</item>
+        <item quantity="one">Čas aktivity: %1$s minúta</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cieľ aktivity: %1$s minút</item>
+        <item quantity="one">Cieľ aktivity: %1$s minúta</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Vstali do %1$s hodín</item>
+        <item quantity="one">Vstal do %1$s hodiny</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Stály cieľ: %1$s hodín</item>
+        <item quantity="one">Stály cieľ: %1$s hodina</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s hod</item>
+        <item quantity="one">%1$s/%2$s h</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Aktuálny počet krokov: %1$s krokov</item>
+        <item quantity="one">Aktuálny počet krokov: %1$s krok</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cieľ kroku: %1$s krokov</item>
+        <item quantity="one">Cieľ kroku: %1$s krok</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s krokov</item>
+        <item quantity="one">%1$s/%2$s krok</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Do hodiny</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Do pol hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hneď</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">o %d minút</item>
+        <item quantity="one">o 1 minútu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Zvýšený rozostup riadkov. Rozostup %s.</item>
+        <item quantity="one">Zvýšený rozostup riadkov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Znížený rozostup riadkov. Rozostup %s.</item>
+        <item quantity="one">Znížený rozostup riadkov. Rozostup %s.</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Položiek: %1$s</item>
+        <item quantity="one">Položiek: %1$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Upozornení: %d</item>
+        <item quantity="one">Upozornení: %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pred %d minútami</item>
+        <item quantity="one">Pred minútou</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Teplota: %1$s stupňov, %2$s</item>
+        <item quantity="one">Teplota: %1$s stupeň, %2$s</item>
+    </plurals>
+</resources>

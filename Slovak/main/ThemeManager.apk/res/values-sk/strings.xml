@@ -2072,4 +2072,8 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="restore_history_lock_screen_when_apply_theme">"Momentálne používate motív tretej strany. Ak zmeníte tapetu uzamknutej obrazovky, môže to spôsobiť, že hodiny na uzamknutej obrazovke sa obnovia na predvolené hodnoty. Použiť teraz?"</string>
     <string name="wallpaper_magic_mode_preview_tip">Ukážka uzamknutej obrazovky</string>
     <string name="historical_wallpaper">Predchádzajúce</string>
+         <string name="system_personalize_title">Prispôsobenie</string>
+     <string name="personalize_aod_notify_style_title">AOD upozornenia</string>
+     <string name="personalize_theme_title">Témy</string>
+     <string name="personalize_wallpaper_card_description">Vzhľad domácej obrazovky</string>
 </resources>

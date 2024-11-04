@@ -862,4 +862,26 @@ d.MM."</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="alarm_repeat_self_define">Prispôsobiť</string>
     <string name="read_device_internal_storage">Prístup k úložisku</string>
+    
+<string name="all_alarm_close">Všetky budíky sú vypnuté</string>
+ <string name="aod_timer_pause">Časovač pozastavený</string>
+ <string name="aod_timer_running">Časovač beží</string>
+ <string name="bottomsheet_action_collapse">Zbaliť spodný hárok</string>
+ <string name="bottomsheet_action_expand">Rozbaliť spodný hárok</string>
+ <string name="bottomsheet_drag_handle_clicked">Dvakrát ťuknúť na rukoväť</string>
+ <string name="bottomsheet_drag_handle_content_description">Presuňte rukoväť</string>
+ <string name="clock_tab_name">Svetové hodiny</string>
+ <string name="enter_label">Zadajte štítok</string>
+ <string name="modify_alarm">Upraviť budík</string>
+ <string name="status_bar_alarm_alert">Zvonenie budíka</string>
+ <string name="timer_keep_screen_on">Ponechať obrazovku zapnutú</string>
+ <string name="timer_pause_notification">Pozastavené</string>
+ <string name="timer_running_notification">Časovač</string>
+ <string name="timer_screen_on">Obrazovka zostane zapnutá</string>
+ <string name="timer_screen_turn_on">Ponechať obrazovku zapnutú</string>
+ <string name="timezone_null_massage">Nič tu nie je</string>
+ <string name="world_edit_actionbar_subtitle">Widget zobrazí prvých %d miest</string>
+ <string name="world_edit_actionbar_title">Vyberte miesta</string>
+ <string name="world_edit_local_default">"Miestny čas | "</string>
+ <string name="worldcolock_time_date_new">dd.MM.</string>    
 </resources>

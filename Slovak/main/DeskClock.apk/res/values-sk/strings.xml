@@ -623,7 +623,7 @@
     <string name="workday_alarm_clock">Pracovný deň</string>
     <string name="worldclock_edit_label">Svetové hodiny</string>
     <string name="worldclock_input_hint_text">Zadajte mesto alebo krajinu</string>
-    <string name="worldclock_local_time">Lokálny čas</string>
+    <string name="worldclock_local_time">"Lokálny čas "</string>
     <string name="worldclock_search_city">Vyberte mesto</string>
     <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Hodiny</string>

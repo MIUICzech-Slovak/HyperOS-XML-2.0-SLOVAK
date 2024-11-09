@@ -1015,4 +1015,9 @@ Môžete si pridať aj pripomienky, aby vám neušlo nič dôležité."</string>
     <string name="yearly">Ročne (každého %s)</string>
     <string name="yearly_plain">Ročne</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="bottom_navigator_days">%1$d dni</string>
+    <string name="tab_view_desk">%1$d deň</string>
+    <string name="setting_show_extend_month">Rozšírené zobrazenie mesiaca</string>
+    
 </resources>

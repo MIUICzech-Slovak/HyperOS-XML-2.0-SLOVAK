@@ -7752,7 +7752,7 @@ Ak chcete pripnúť aplikáciu: \u0009
     <string name="security_keyguard_category_name">Zámok</string>
     <string name="security_password_category_name">Heslo</string>
     <string name="security_patch">Bezpečnostná záplata</string>
-    <string name="security_patch_subtitle">"Aktualizácia zabezpečenia systému Android: "</string>
+    <string name="security_patch_subtitle">"Záplata: "</string>
     <string name="security_privacy_settings_title">Zabezpečenie</string>
     <string name="security_relative">Bezpečnosť</string>
     <string name="security_settings_activeunlock_biometric_setup">Nastaviť</string>
@@ -13030,5 +13030,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
  <string name="gd_setting_group_custom_vtb_apps_new">Spravovať video aplikácie</string>    
      <string name="personal_section_title">Prispôsobenie</string>
     <string name="system_personalize_title">Prispôsobenie</string>
-
+ <string name="service_support">Podpora</string>
 </resources>

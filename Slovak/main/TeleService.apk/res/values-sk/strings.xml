@@ -89,8 +89,8 @@
     <string name="auto_answer_setting_title">Nastavenie automatického prijatia</string>
     <string name="auto_answer_summary_not_enabled">Nie je povolené</string>
     <string name="auto_record_yellowpage">Zlaté stránky (Iba Čína)</string>
-    <string name="auto_redial_pref_summary">Automaticky volať späť pokiaľ je linka obsadená</string>
-    <string name="auto_redial_pref_title">Automaticky volať späť</string>
+    <string name="auto_redial_pref_summary">Automaticky opakovať volanie ak je obsadené</string>
+    <string name="auto_redial_pref_title">Automaticky opakovať volanie</string>
     <string name="auto_retry_mode_summary">Aktivovať režim automaticky skúsiť znova</string>
     <string name="auto_retry_mode_title">Auto opakovanie</string>
     <string name="autoip">Auto IP vytáčanie</string>

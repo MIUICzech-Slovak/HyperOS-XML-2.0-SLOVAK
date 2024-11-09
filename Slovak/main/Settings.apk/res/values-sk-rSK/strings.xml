@@ -4270,7 +4270,7 @@ Ak chcete pripnúť aplikáciu: \u0009
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">Možnosť zámky obrazovky je zakázaná. VIac sa dozviete od správcu svojej organizácie.</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Naďalej môžete pomocou odtlačku prsta schvaľovať nákupy a prístup do aplikácií.</string>
     <string name="security_header">Zabezpečenie</string>
-    <string name="security_patch">Aktualizácia zabezpečenia Androidu</string>
+    <string name="security_patch">Záplata</string>
     <string name="security_settings_activeunlock_biometric_setup">Nastaviť</string>
     <string name="security_settings_activeunlock_preference_title">Odomknutie hodinkami</string>
     <string name="security_settings_activeunlock_require_face_fingerprint_setup_message">Hodinkami môžete odomknúť, keď nebude rozpoznaná vaša tvár alebo odtlačok prsta</string>

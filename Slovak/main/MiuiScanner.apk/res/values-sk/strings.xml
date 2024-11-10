@@ -865,4 +865,12 @@
     <string name="word_to_be_recognized_is_aligned_with_cross">Slovo, ktoré sa má rozpoznať, je zarovnané s krížikom</string>
     <string name="word_translation">Preklad slova</string>
     <string name="you_id">"Vaše ID: "</string>
+    
+<string name="scan_code_lite_object_guard">Naskenujte čiarový kód alebo QR kód</string>
+ <string name="transfer_document">Konvertovať dokument</string>
+ <string name="transfer_document_ppt_summary">Skenovať do PDF / skenovať snímky</string>
+ <string name="transfer_document_ppt_table_summary">Skenovať do PDF / skenovať snímky / skenovať tabuľku programu Excel</string>
+ <string name="transfer_document_summary">Vytvoriť PDF</string>
+ <string name="transfer_document_table_summary">Skenovanie dokumentov do PDF a skenovanie tabuliek programu Excel</string>
+    
 </resources>

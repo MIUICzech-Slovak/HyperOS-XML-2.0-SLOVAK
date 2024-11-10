@@ -8529,7 +8529,7 @@ Viac o týchto certifikátoch sa dozviete od svojho správcu.}}"</string>
     <string name="ssl_ca_cert_warning_message">"Vaša aktivita v sieti, vrátane e-mailov, aplikácií a zabezpečených webových stránok môže byť monitorovaná treťou stranou.
 
 Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom zariadení."</string>
-    <string name="stable_build">" | Stabilná"</string>
+    <string name="stable_build">Stabilná</string>
     <string name="standard">Ticho</string>
     <string name="standard_info">Hovory a upozornenia budú stíšené ale budík bude zvoniť normálne</string>
     <string name="standard_limit">Štandardný limit</string>

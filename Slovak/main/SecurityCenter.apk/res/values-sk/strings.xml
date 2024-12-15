@@ -7302,4 +7302,8 @@ neoprávneného používania vašich aplikácií"</string>
  <string name="gd_setting_group_custom_conversation_apps">Nahrávanie hlasových záznamov pre hovory</string>
  <string name="gd_setting_group_custom_gtb_apps_new">Správa herných aplikácií</string>
  <string name="gd_setting_group_custom_vtb_apps_new">Spravovať video aplikácie</string>       
+ 
+     <string name="finger_unlock">Odomknúť odtlačkom prsta</string>
+    <string name="password_switch">Použiť heslo</string>
+
 </resources>

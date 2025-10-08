@@ -13028,7 +13028,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
  <string name="gd_setting_group_custom_conversation_apps">Nahrávanie hlasových záznamov pre hovory</string>
  <string name="gd_setting_group_custom_gtb_apps_new">Správa herných aplikácií</string>
  <string name="gd_setting_group_custom_vtb_apps_new">Spravovať video aplikácie</string>    
-     <string name="personal_section_title">Prispôsobenie</string>
     <string name="system_personalize_title">Prispôsobenie</string>
  <string name="service_support">Podpora</string>
 </resources>
